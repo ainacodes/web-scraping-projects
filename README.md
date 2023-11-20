@@ -28,6 +28,7 @@ If there is no available API, I will use `Scrapy` then `beautifulSoup`, `seleniu
             <a href="./resultstrading_view_all_data.csv">trading_view_all_data.csv</a>
         </td>
     </tr>
+    <tr>
         <td>
             <a href="https://semma.com.au/member-directory/">SEMMA member directory</a>
         </td>
@@ -40,14 +41,26 @@ If there is no available API, I will use `Scrapy` then `beautifulSoup`, `seleniu
             <a href="./results/semma_data_cleaned.csv">semma_data_cleaned.csv</a>
         </td>
     </tr>
+    <tr>
         <td>
             <a href="https://www.zocdoc.com/">Zocdoc</a>
         </td>
         <td>
-            Collect all the information for aetna plans.
+            Collect all names under aetna plans using API.
         </td>
         <td>
              <a href="./results/aetna_plans.json">aetna_plans.json</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.futurepedia.io/">futurepedia.io</a>
+        </td>
+        <td>
+            Collect all AI Copywriting tools using selenium.
+        </td>
+        <td>
+             <a href="./results/copywriting_assistant.csv">copywriting_assistant.csv</a>
         </td>
     </tr>
 </table>
