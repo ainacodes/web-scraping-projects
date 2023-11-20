@@ -24,7 +24,8 @@ If there is no available API, I will use `Scrapy` then `beautifulSoup`, `seleniu
             Total data collected: 14,468
         </td>
         <td>
-            <a href="./results/tradingView_stockScreener2.0.png">TradingView-StockScreener2.0.png</a>
+            <a href="./results/tradingView_stockScreener2.0.png">TradingView-StockScreener2.0.png</a><br>
+            <a href="./resultstrading_view_all_data.csv">trading_view_all_data.csv</a>
         </td>
     </tr>
         <td>
@@ -35,11 +36,18 @@ If there is no available API, I will use `Scrapy` then `beautifulSoup`, `seleniu
             Total data collected: 208
         </td>
         <td>
-            <a href="./results/semma_AU.png">semma_AU.png</a>
+            <a href="./results/semma_AU.png">semma_AU.png</a><br>
+            <a href="./results/semma_data_cleaned.csv">semma_data_cleaned.csv</a>
         </td>
     </tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>
+            <a href="https://www.zocdoc.com/">Zocdoc</a>
+        </td>
+        <td>
+            Collect all the information for aetna plans.
+        </td>
+        <td>
+             <a href="./results/aetna_plans.json">aetna_plans.json</a>
+        </td>
     </tr>
 </table>
