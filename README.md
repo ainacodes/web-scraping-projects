@@ -57,21 +57,33 @@ If there is no available API, I will use `Scrapy` then `beautifulSoup`, `seleniu
             <a href="https://www.futurepedia.io/">futurepedia.io</a>
         </td>
         <td>
-            Collect all AI Copywriting tools using selenium.
+            Collect all AI Copywriting tools using Selenium.
         </td>
         <td>
              <a href="./results/copywriting_assistant.csv">copywriting_assistant.csv</a>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td>
             <a href="https://www.ebay.com">Ebay</a>
         </td>
         <td>
-            Download images that appears on search result page.
+            Download images that appears on search result page using Selenium.
         </td>
         <td>
              <a href="./results/ebay-img-scrape.png">ebay-img-scrape.png</a>
+        </td>
+    </tr>
+        <tr>
+        <td>
+            <a href="https://www.ibba.org/find-a-business-broker/">IBBA</a>
+        </td>
+        <td>
+            Collect all the data for SEARCH BY BROKER OR COMPANY NAME using API.<br>
+            Total rows: 1049
+        </td>
+        <td>
+             <a href="./results/ibba_lists.png">ibba_lists.png</a>
         </td>
     </tr>
 </table>
